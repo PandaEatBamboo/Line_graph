@@ -1,0 +1,26 @@
+{
+  "name": "line_graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PandaEatBamboo/Line_graph.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PandaEatBamboo/Line_graph/issues"
+  },
+  "homepage": "https://github.com/PandaEatBamboo/Line_graph#readme",
+  "devDependencies": {
+    "d3": "^3.5.6",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-load-plugins": "^0.10.0",
+    "jshint-stylish": "^2.0.1"
+  }
+}
